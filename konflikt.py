@@ -1,0 +1,1 @@
+dicty = {"name": "Egon", "age": 33}
